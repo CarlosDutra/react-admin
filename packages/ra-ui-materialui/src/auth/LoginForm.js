@@ -66,7 +66,7 @@ const LoginForm = ({ classes, isLoading, handleSubmit, translate }) => (
             <Button
                 variant="raised"
                 type="submit"
-                color="primary"
+                color="#727a2f"
                 disabled={isLoading}
                 className={classes.button}
             >
